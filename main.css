@@ -1,0 +1,21 @@
+h1 {
+    color: #99c0ff;
+   font-family: 'Delius Unicase', cursive;
+    font-size: 70px;
+}
+
+
+body {
+    background-color:#7caed5;
+    font-size: 24px;
+}
+
+p {
+   color: #6676d1;
+}
+
+
+img {
+    max-width: 100%;
+
+}
